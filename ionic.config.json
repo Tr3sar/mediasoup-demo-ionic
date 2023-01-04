@@ -1,0 +1,7 @@
+{
+  "name": "mediasoup-demo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
